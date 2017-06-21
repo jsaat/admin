@@ -22,13 +22,9 @@
     1. _Scripts_  used to perform the analysis (the main analysis or the subsequent statistical tests or visualizations; e.g.    the  [Python Sparklines generator](https://pypi.python.org/pypi/pysparklines)). Scripts can also implement some of the patterns
   identified by the paper.
 1. Data
-    1. Any  _data_ used in an analysis
-          + Either  _raw_ from a project;
-          + Or some _derived_ product.
-       Note that some data is too large to fit into the standard on-line freely available repos (e.g. Github only allows 1GB reps). For such data, we suggest using some file `XXX.goto`; each line of which is one url where the related data can be collected.
-
- 6.Execution
-
+    1. Any  _data_ used in an analysis: either  _raw_ from a project or some _derived_ product.
+    2. Note that some data is too large to fit into the standard on-line freely available repos (e.g. Github only allows 1GB reps). For such data, we suggest using some file `XXX.goto`; each line of which is one url where the related data can be collected.
+6.Execution
     1. _Executable  models_ that can generate exemplar data;  or which offer an executable form of current hypotheses;
     1. _Delivery tools_ to let novices automatically rerun the analysis; e.g.
        + Config management files that can
