@@ -1,4 +1,7 @@
+# Artifact types
 
+1. Commentary
+    1. Old old work
 1. Parts of a discussion
     1. _Motivational statements_   or reports or challenge statements or lists of open issues that prompt an analysis; 
     1. _Hypotheses_,  about expected effects in some area;
