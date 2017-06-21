@@ -26,7 +26,9 @@
           + Either  _raw_ from a project;
           + Or some _derived_ product.
        Note that some data is too large to fit into the standard on-line freely available repos (e.g. Github only allows 1GB reps). For such data, we suggest using some file `XXX.goto`; each line of which is one url where the related data can be collected.
-1.Execution
+
+ 6.Execution
+
     1. _Executable  models_ that can generate exemplar data;  or which offer an executable form of current hypotheses;
     1. _Delivery tools_ to let novices automatically rerun the analysis; e.g.
        + Config management files that can
